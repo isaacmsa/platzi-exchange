@@ -1,0 +1,11 @@
+Funcionalidades, UI y comandos básicos
+npm run lint. Detectar errores de linteo
+
+npm run build. Generar la aplicación en modo producción. Genera una carpeta dist.
+
+npm i -g serve. Permite generar un servidor web local:
+
+serve -s dist. Levanta un localhost.
+
+vue ui. Genera una aplicación web local, que mediante una interfaz de usuario permite gestionar los proyectos de Vue.
+preset. A medida que se van creando proyectos con determinada configuración, el cli de vue permite guardar esa configuración para más adelante poder utilizarla al momento de crear un proyecto.
